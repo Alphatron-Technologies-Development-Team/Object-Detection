@@ -1,3 +1,2 @@
-import project_file
-
-print(project_file.lib_info())
+import project_file as pf
+pf.Object_Detection()
